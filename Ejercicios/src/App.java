@@ -3,8 +3,8 @@ public class App {
         int[] array_numeros = {1,2,3,4,5};
         String rpta = "";
         for(int i = 1; i <= array_numeros.length; i++) {
-            rpta += i;
-            System.out.println(rpta);
+
+            System.out.println("La respuesta es" + 5);
         };
     };
 };
